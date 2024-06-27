@@ -169,6 +169,13 @@ main.cards section.card {
     width: 200px;
     border-radius: 100%;
   }
+
+  .video{
+    width: 100%;
+  }
+  .video_video{
+    width: 100%;
+  }
 }
 
 /* RESPONSIVO */
